@@ -1,0 +1,5 @@
+pip install pandas
+pip install sklearn
+pip install imblearn
+pip install matplotlib
+pip install seaborn
